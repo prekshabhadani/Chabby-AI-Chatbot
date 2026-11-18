@@ -15,6 +15,12 @@ load_dotenv(dotenv_path=env_path)
 
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 
+if not API_KEY:
+    try:
+        API_KEY = st.secrets["OPENROUTER_API_KEY"]
+    except Exception:
+        API_KEY = None
+
 # --------------------------------
 # MODEL DETAILS
 # --------------------------------
