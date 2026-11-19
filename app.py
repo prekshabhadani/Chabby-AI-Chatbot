@@ -25,7 +25,7 @@ if not API_KEY:
 # MODEL DETAILS
 # --------------------------------
 
-MODEL = "inclusionai/ling-3.2-flash:free"
+MODEL = "nvidia/nemotron-3.5-embed-8b:free"
 
 # --------------------------------
 # PAGE SETTINGS
