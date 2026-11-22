@@ -1,7 +1,7 @@
-# 🌸 Chabby AI — Your Little AI Companion
+# ✨ Chabby ✨ — Your Little AI Companion
 
 <p align="center">
-  <img src="https://placehold.co/900x180/f5dafa/794a9b?text=CHABBY+AI+%E2%9C%A8" alt="Chabby AI Banner" width="100%">
+  <img src="./chabby-banner.png" alt="Chabby AI Banner" width="100%">
 </p>
 
 <p align="center">
