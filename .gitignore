@@ -1,4 +1,22 @@
+
+# Environment variables and secrets
 .env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python virtual environments
 .venv/
+venv/
+env/
+
+# Python cache
 __pycache__/
+*.py[cod]
+
+# Chabby private data
 chabby_chats.json
+chabby_memory/
+
+# Other local files
+.DS_Store
