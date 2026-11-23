@@ -12,3 +12,5 @@ pypdf
 SpeechRecognition
 gTTS
 Pillow
+supabase
+cryptography
